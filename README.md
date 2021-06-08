@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Jessica 👋
+
+## You can find me here.
+- :email: hello@jessicadev.com 
+- :rotating_light: https://jessicadev.com
 
 <!--
 **frontendjess/frontendjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
