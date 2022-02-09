@@ -1,4 +1,6 @@
 # Hi there, I'm Jessica 👋
+I am a front-end developer based in Oslo. 
+My passion is creating modern and beautiful solutions that optimies the user experience and establishing an impactful online presence.
 
 ## You can find me here.
 - :email: hello@jessicadev.com 
