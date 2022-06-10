@@ -2,6 +2,8 @@
 I am a front-end developer based in Oslo. 
 My passion is creating modern and beautiful solutions that optimies the user experience and establishing an impactful online presence.
 
+I love React, Next.Js and Styled-Components 💅
+
 ## You can find me here.
 - :email: hello@jessicadev.com 
 - :rotating_light: https://jessicadev.com
