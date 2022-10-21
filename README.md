@@ -1,6 +1,6 @@
 # Hi there, I'm Jessica 👋
 I am a front-end developer based in Oslo. 
-My passion is creating modern and beautiful solutions that optimies the user experience and establishing an impactful online presence.
+My passion is creating modern and beautiful solutions that optimizes the user experience and establishing an impactful online presence.
 
 I love React, Next.Js and Styled-Components 💅
 
