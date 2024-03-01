@@ -5,8 +5,7 @@ My passion is creating modern and beautiful solutions that optimizes the user ex
 I love React, Next.Js and Styled-Components 💅
 
 ## You can find me here.
-- :email: hello@jessicadev.com 
-- :rotating_light: https://jessicadev.com
+- :rotating_light: https://jessicawarr.com
 
 ## Languages 
 ![cssbadge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
