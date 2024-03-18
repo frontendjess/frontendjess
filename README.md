@@ -2,7 +2,7 @@
 I am a front-end developer based in Oslo. 
 My passion is creating modern and beautiful solutions that optimizes the user experience and establishing an impactful online presence.
 
-I love React, Next.Js and Styled-Components 💅
+I love modern javascript frameworks 💅
 
 ## You can find me here.
 - :rotating_light: https://jessicawarr.com
